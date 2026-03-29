@@ -2,9 +2,8 @@
 
 <div align="center">
   <br>
-  <p><img src="src/renderer/src/icon.svg" width="120" alt="CutToTheChase" /></p>
   <p><b>CutToTheChase</b></p>
-  The swiss army knife of lossless video/audio editing
+  A swiss army knife of lossless video/audio editing
   <br>
 </div>
 
